@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeNews/sab-script-122dbe/main/raw.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DupeNews/sab-script-6af019/main/raw.lua"))()
